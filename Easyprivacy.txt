@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5102,6 +5102,7 @@ analytics.belgacom.be
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bigfishgames.com
 analytics.bitchute.com
 analytics.bitrix.info
@@ -7350,6 +7351,7 @@ barkfactor.com
 barqueue.com
 barracuda.carte-gr.total.fr
 barrelcider.com
+bartcons.com
 baseboosters.com
 basketballbelieve.com
 basket.mondo.link
@@ -7683,6 +7685,8 @@ bloomreach.co
 bloomsend.com
 blsoof.wirwinzer.de
 bl-test.curatedplanet.com
+bluebellbooks.com
+bluebirdteam.com
 bluebusiness.actonservice.com
 bluecollarmuse.com
 bluecore-email.branch.rocks
@@ -8039,6 +8043,7 @@ broadborder.com
 broadcastbed.com
 broaddoor.com
 broadstreet.ai
+broflask.com
 b.rohde-schwarz.com
 bronxvanilla.openapp.link
 brooklynway.openapp.link
@@ -8260,6 +8265,7 @@ cache2.delvenetworks.com
 ca.clubavantages.net
 ca.connect.finning.com
 ca.creditacceptance.com
+cactus.jd.com
 cactus.joybuy.com
 caderonline.bu.edu
 cadsuta.net
@@ -9787,6 +9793,7 @@ cryo.socialblade.com
 crypticgenius.com
 crypto.egghead.link
 crystalboulevard.com
+crystaldewfarm.com
 crzohw.intersport.gr
 cs0010sbeda.theory-clinic.com
 cs1470sbeda.schoolasp.com
@@ -10916,6 +10923,7 @@ debonairtree.com
 debug-inform.liilix.com
 debug-r.rover.com
 decidedrum.com
+decimalnet.com
 decisionhut.com
 decisivebase.com
 decisivedrawer.com
@@ -11668,6 +11676,7 @@ dramaticdirection.com
 drau.viessmann.si
 dreamsdome.com
 drfdisvc.walmart.com
+driedwheat.com
 driftingchef.com
 driftpizza.com
 drive.carpoollogistics.com
@@ -13235,6 +13244,7 @@ event.spektare.com
 events.pella.com
 events.pickrr.com
 events.plus.yandex.net
+events.plutus.ninja
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -13435,6 +13445,7 @@ f928.pandasuite.io
 f.a23.in
 fa5.dn4.it
 fabcharting.com
+fabledglory.com
 fabledsoul.com
 fabryczna.viessmann.pl
 fabulousbooking.com
@@ -13505,6 +13516,7 @@ faucetfoot.com
 faucons.viessmann.fr
 faultycanvas.com
 fauzxn.hairlavie.com
+faxardent.net
 faxcoupons.com
 fazphz.theiconic.com.au
 fb.echovisuals.com
@@ -13647,7 +13659,9 @@ firebaselogging-pa.googleapis.com
 firecatfilms.com
 fire.solutions.jci.com
 fireworkcamp.com
+firmasset.com
 firstendpoint.com
+firsthoughtstudios.com
 firstpac.actonservice.com
 firstparty1.dentsplysirona.com
 firstparty.alloyio.com
@@ -13657,6 +13671,7 @@ firstscreenshot.com
 firurx.invia.hu
 fishersfinds.com
 fishing.daigostudio.com
+fishingrodsgalore.com
 fishingtoolsbox.com
 fishspies.com
 fitgreatest.com
@@ -15453,6 +15468,7 @@ helpingbits.com
 hemblx.vans.cl
 herbgreencolumn.com
 herbstarsbuilding.com
+hermes.jd.com
 herpes2.pa-ruit.jp
 hesconet.actonservice.com
 hesprh.sony.jp
@@ -17326,9 +17342,11 @@ ingredients.firmenich.com
 ingress.linktr.ee
 ingress.trendii.com
 in.invitd.us
+inkcarts.net
 inkcoupon.com
 inkubate.actonservice.com
 in-mktg.vodafone.com
+inmobicdn.net
 inmtuj.jobs.ie
 inmuzp.popsockets.com
 innerskinresearch.com
@@ -17928,6 +17946,7 @@ jptgtr.astellas.jp
 jptobh.network.com.tr
 jpwfkn.besthotels.es
 jpwfrl.mona.de
+jqioregvpxgte.website
 jqlzwb.bauhaus.fi
 jqsouo.gourmetcaree.jp
 jraasj.kobo.com
@@ -18333,6 +18352,7 @@ laughcloth.com
 launch.aella.app
 launch-analytics-plugin.launchpotato.com
 launchjack.com
+launchkite.com
 launch.meetsaturn.com
 launch.vypr.it
 laurel.macrovision.com
@@ -18395,6 +18415,7 @@ ldnlyap.com
 l.doctissimo.fr
 ldorlv.seiban.co.jp
 ldqtdd.peing.net
+ldrws.com
 l.du.coach
 ldvalc.manzara.cz
 ldv.midoplay.com
@@ -19431,6 +19452,7 @@ lists.ccmbg.com
 lit.connatix.com
 literally-analytics.appspot.com
 l.itribe.in
+littlegeese.com
 littlesun.net
 live.alljobs.co.il
 live.comunicaciones.jetstereo.com
@@ -19587,6 +19609,7 @@ logging.pw.adn.cloud
 log.go.com
 log.gs3.goo.ne.jp
 loggychops.paulsmith.site
+log-h5.imdada.cn
 log.hiiir.com
 log.hypebeast.com
 logicalminds.net
@@ -19688,6 +19711,7 @@ lotte.myomee.com
 loudlunch.com
 loveeveryday.brighterkind.com
 lovelydrum.com
+lovesbooks.com
 loveseashore.com
 love.vidora.su
 lowercases.com
@@ -21920,6 +21944,7 @@ media.gotham.com
 media.gstoneinc.com
 media.ignitium.com
 media.leahy-ifp.com
+mediamaker.net
 mediamathrdrt.com
 mediametrics.mpsa.com
 media.pirtek.co.uk
@@ -22013,6 +22038,7 @@ merchant-app.th3rdwave.coffee
 merchant.libertycarz.com
 merchant-mail.neosurf.com
 mercuryace.com
+mercury.jd.com
 meremark.com
 merequartz.com
 merryvault.com
@@ -22031,6 +22057,7 @@ met1.hp.com
 met2.hp.com
 metajaws.com
 metallic.actonservice.com
+metalsfactory.com
 metapack.actonservice.com
 metawelcome.com
 metc.banfield.com
@@ -23746,6 +23773,7 @@ mlinks.fluz.app
 mlinks.helloalfred.com
 mlkblr.la-becanerie.com
 mlkklg.suncamp.de
+mllog.jd.com
 mlmswk.janpara.co.jp
 mlqzau.koffer.com
 ml-sys.xyz
@@ -23874,6 +23902,7 @@ motorsports.locktonaffinity.net
 motu-teamblue.services
 mountedbattery.com
 mousebusters.odencat.com
+mousescene.com
 movableobject.com
 move.azets.com
 move.azets.dk
@@ -24000,6 +24029,7 @@ mtyciy.solebox.com
 mud4.destinia.com.eg
 muddledaftermath.com
 muddledmemory.com
+muddlingthroughcode.com
 mugapi.lazzarionline.com
 muhttw.spotlightstores.com
 mujjrh.stylenanda.com
@@ -24192,6 +24222,7 @@ nedasco.actonservice.com
 ned.themarketingscience.com
 needleaf.com
 needyneedle.com
+neighborhoodbiketours.com
 neighborlywatch.com
 nekgtz.bluestoneperennials.com
 neocounter.neoworx-blog-tools.net
@@ -24315,6 +24346,7 @@ news.thedailyrecord.com
 news.thedolancompany.com
 newsuccesssecret.com
 news.valawyersweekly.com
+newsvehicles.com
 news.verimatrix.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
@@ -26013,6 +26045,7 @@ pluggedlabs.com
 plugs.jameco.com
 plusavecmoins.adp.ca
 pluto.smallpdf.com
+pluxpdzouwubj.space
 pl.venusafe.com
 plv.geocomply.com
 pl.volunteeringhb.org.nz
@@ -26656,6 +26689,7 @@ quickkoala.io
 quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
+quicktattoo.com
 quicktrick.net
 quidel.actonservice.com
 quietknowledge.com
@@ -26882,6 +26916,7 @@ redirectdemoqpay.2c2p.com
 redirect.indacar.io
 redirect.kataklop.com
 redlion.actonservice.com
+redmillgroup.com
 redthreadmarketing.actonservice.com
 redvector.actonservice.com
 redwingforbusiness.redwingsafety.com
@@ -27021,6 +27056,7 @@ repdata.wzzm13.com
 repdata.ydr.com
 repdata.yorkdispatch.com
 repeatsweater.com
+repfineart.com
 replaceroute.com
 reply.osv.com
 report.23video.com
@@ -27193,6 +27229,7 @@ reuniondepadres.unisabana.edu.co
 reverb.digitalviscosity.com
 reversetickets.com
 revgroup.actonservice.com
+reviewacousticguitar.com
 review.openapp.link
 review.teradata.com
 revivalvoice.com
@@ -35515,6 +35552,7 @@ synapse-da.actonservice.com
 synbiobeta.actonservice.com
 sync-a8.cocolocala.jp
 sync.adap.tv
+synccache.com
 syncingbridge.com
 sync.rambler.ru
 sync.shinobi.jp
@@ -36408,6 +36446,7 @@ thebestpaints.com
 thebigvan.com
 thebrainybulb.com
 thecea.actonservice.com
+thecodingpad.com
 thecounter.net
 thecrazychili.com
 thefishstops.com
@@ -37070,6 +37109,7 @@ track.docusign.jp
 track.docusign.mx
 track.docusign.nl
 track.dunedinincomegrowth.co.uk
+track.dws.com
 track.dws.de
 track.eadv.it
 track-e.cypress.com
@@ -40137,6 +40177,7 @@ upz1.destinia.lt
 uqckxr.chilli.se
 uqd.io
 uqhpej.wiberrentacar.com
+uranus.jd.com
 urbanairship.com
 urbanlaurel.com
 urbanopus.net
@@ -40819,6 +40860,7 @@ views.wioks.com
 vikingclan.kano.link
 vilenexus.com
 violetdemise.com
+viowrel.com
 vip.agentteam.com.au
 vip.german.ni.com
 vip.gophersport.com
@@ -41555,6 +41597,7 @@ wl-analytics.tsp.li
 wl.bl.frequentvalues.com.au
 wlct-one.de
 wlct-two.de
+wl.jd.com
 wlkojk.orange.ro
 wlog.kuaishou.com
 wlp3.aegon.es
