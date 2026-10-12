@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 09OCT26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4992,6 +4992,7 @@ am.siemensplmevents.com
 ams.lelong.com.my
 ams.oraclecloud.com
 ams-pageview-public.s3.amazonaws.com
+amspbs.com
 amsunsolar.actonservice.com
 a.mts.ru
 amuckafternoon.com
@@ -5045,6 +5046,7 @@ analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
+analytic.is
 analytic.newmexico.aaa.com
 analytic.northernnewengland.aaa.com
 analytic.rollout.io
@@ -5598,6 +5600,7 @@ analytics.traderlink.com
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics.tufos.com.br
 analytics.turnertv.com
 analytics.tver.jp
@@ -6797,6 +6800,7 @@ a.replaytheseries.com
 a-reporting.nytimes.com
 argos.citruserve.com
 argyleforum.actonservice.com
+ariaclean.com
 aria.inhaabit.com
 ariane.abtasty.com
 a.ria.ru
@@ -7603,6 +7607,7 @@ bikesboard.com
 bilahh.feuvert.fr
 bilder11.markt.de
 bilingualgeek.com
+billionpet.com
 billowybead.com
 billowybelief.com
 billtable.com
@@ -7665,6 +7670,7 @@ blackdagger.openapp.link
 blackenterprise.black.news
 blackjack.abzorbagames.com
 blackmesh.actonservice.com
+blackrednecks.com
 blacktri-a.akamaihd.net
 bladv.actonservice.com
 blaltn.physicianschoice.com
@@ -7803,6 +7809,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 boss.openapp.link
@@ -8228,6 +8235,7 @@ bwkpkx.projectxparis.com
 bwmxdg.kimono-365.jp
 bwntyd.neuve-a.net
 b.workhere.com
+bws.airwallex.com
 bwspqc.bloomonline.jp
 bwujxl.yoga-lava.com
 bxbuvv.zeelool.com
@@ -8441,6 +8449,7 @@ cars.smartleasing.com.au
 c.arstechnica.com
 carte.fleet-page.total.fr
 cartelsalsa.com
+cartersci.com
 cartjoint.com
 cartlug.com
 cartoon.hardalist.com
@@ -8538,6 +8547,7 @@ cdns.brsrvr.com
 cdn.seonintelligence.com
 cdn.sy-d.io
 cdn.usefathom.com
+cdn-vitals.com
 cdnwidget.com
 cdp.cifinancial.com
 cdp.howtotrade.com
@@ -8690,6 +8700,7 @@ cis.schibsted.com
 ciszhp.finanzfrage.net
 ciszhp.gesundheitsfrage.net
 ciszhp.motorradfrage.net
+citizensactive.com
 citizensclimate.actonservice.com
 citizenship.quantresear.ch
 citydeal.net
@@ -8773,6 +8784,7 @@ click.emails.creditonebank.com
 click.email.soundhound.com
 click.em.soothe.com
 click.e.progressive.com
+clickersdigest.com
 click.e.tdbank.com
 click.execrank.com
 click-ext.anxa.com
@@ -8924,6 +8936,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cmass.massmedian.co.jp
 cmc.americanexpress.co.uk
@@ -11680,6 +11693,7 @@ dozententag.ni.com
 dpckzt.mesrecettesfaciles.fr
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
+dppesulohfqre.cloudfront.net
 dppublishinginc.actonservice.com
 dp.shoprunner.com
 dptgdj.usagi-online.com
@@ -12750,7 +12764,6 @@ emplicity.actonservice.com
 emptyboats.com
 emptyescort.com
 emrdnt.sumaity.com
-emrld.cc
 ems-a8net-tracking.easy-myshop.jp
 emsexam.quantresear.ch
 em.stauffersafety.com
@@ -13752,6 +13765,7 @@ f-log-test.grammarly.io
 floodedpixel.com
 floodprincipal.com
 floorforce.actonservice.com
+floors.dev
 flotech.actonservice.com
 flourishingcollaboration.com
 flourishingendeavor.com
@@ -14044,6 +14058,7 @@ fse.net.anwalt.de
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fsrv.io
 fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
@@ -14521,7 +14536,6 @@ gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gk.sina.cn
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -20088,6 +20102,7 @@ maeketing.net.gafas.es
 m.aetv.com
 mafiahairdresser.actonservice.com
 maformationofficinale.actonservice.com
+ma.gamersnexus.net
 magento-recs-sdk.adobe.net
 maggieeatstheangel.com
 magicaljoin.com
@@ -24087,6 +24102,7 @@ mupmos.levis.com.au
 muqtti.motoin.de
 mushroomgods.com
 mushywaste.com
+musicenforcer.com
 musicflashcard.com
 muteknife.com
 mutemailbox.com
@@ -25799,6 +25815,7 @@ pittaking.openapp.link
 pivotpointsecurity.actonservice.com
 pix.airbusgroup.com
 pix.eads.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
@@ -28247,6 +28264,7 @@ schinnerer.actonservice.com
 sc.hl.co.uk
 sc.hm.com
 scholarloop.com
+scholarsark.com
 sc.holtsmilitarybank.co.uk
 schoolpaws.com
 schwacke.autovistagroup.com
@@ -34369,6 +34387,7 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.flightsphere.com
+stats.flixcloud.cc
 stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
@@ -34540,6 +34559,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -34981,6 +35001,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stat.taxlive.nl
 statt-collect.herokuapp.com
 stat.testme.cloud
@@ -35158,6 +35179,7 @@ s.toyotafinancial.com
 stpc.vivo.com.cn
 st.picshuffle.com
 st.preciousamber.com
+st.putler.com
 str1kee.com
 str2-bbyca-track.bestbuy.com
 str2-fsca-track.bestbuy.com
@@ -35809,6 +35831,7 @@ t.ao.consumerfinancereport.com
 t.ao.walletjoy.com
 tap.carling.com
 tapi.kaufda.de
+tapoutmusic.com
 t.appsflyer.com
 t.appstatesports.com
 t.arcade.show
@@ -36981,6 +37004,7 @@ top-fwz1.mail.ru
 topicalcartel.com
 topicjungle.com
 toplaunch.net
+topratedwaterfilter.com
 topsecretapp.net
 top.skyzone.ro
 topspin.npo.nl
@@ -37022,6 +37046,7 @@ tp.baur.de
 t.pbr.com
 tp.convertiser.com
 tp.creation-l.de
+tp-em.cc
 t.pennathletics.com
 t.perigold.com
 t.perjeta.com
@@ -40989,6 +41014,7 @@ visit.tenplay.com.au
 visma.e-conomic.dk
 vismaturva.visma.fi
 visor.sberbank.ru
+visualcommservices.com
 visualscience.external.bbc.co.uk
 vitalimages.actonservice.com
 vitalmedia.actonservice.com
